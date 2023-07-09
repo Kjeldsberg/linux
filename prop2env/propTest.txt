@@ -1,0 +1,3 @@
+no.fun.stuff.int=1234
+no.fin.haha.string=hei på deg
+
